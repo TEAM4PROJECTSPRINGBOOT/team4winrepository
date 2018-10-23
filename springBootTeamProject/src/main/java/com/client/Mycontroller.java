@@ -32,7 +32,7 @@ public class Mycontroller {
 
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
-		 System.out.println("in gotoLogin page..");
+		 System.out.println("in Login.. Akashbranch..");
 		 
 		 
 		 return "login";}  
