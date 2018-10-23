@@ -28,14 +28,12 @@ public class Mycontroller {
 	 int curid;
 	 
 
-
-
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
-		 
-		 
-		 return "login";}  
+		 System.out.println("Akash....");
+		 return "login";
+		 }  
 	 
 	 @RequestMapping(value="/register")public String goToRegistrationPage() {return "registration";} 
 	 	 	 
