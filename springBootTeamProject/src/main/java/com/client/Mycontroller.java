@@ -33,6 +33,7 @@ public class Mycontroller {
 		 System.out.println("in Login..");
 		 System.out.println("Akash....");
 		 System.out.println("pranay kohad");
+		 System.out.println("Samirrrrrrrrrrrr");
 		 return "login";
 		 }  
 	 
