@@ -28,21 +28,11 @@ public class Mycontroller {
 	 int curid;
 	 
 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
-	 
+
 
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
-		 System.out.println("in login controller");
+		 System.out.println("in gotoLogin page..");
 		 
 		 
 		 return "login";}  
