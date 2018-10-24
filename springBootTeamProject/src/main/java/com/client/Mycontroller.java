@@ -37,8 +37,12 @@ public class Mycontroller {
 		 System.out.println("try to changes..");
 		 System.out.println("merge akashbranch -- master..");
 		 System.out.println("merge akashbranch -- master..");
+<<<<<<< HEAD
 		 System.out.println("timepass...");
 
+=======
+		 System.out.println("check merge conflict error..");
+>>>>>>> refs/remotes/origin/akashbranch
 		 return "login";
 		 }  
 	 
