@@ -33,9 +33,10 @@ public class Mycontroller {
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
-		 
-		 
-		 return "login";}  
+		 System.out.println("Akash Branch..");
+ 
+		 return "login";
+		 }  
 	 
 	 @RequestMapping(value="/register")public String goToRegistrationPage() {return "registration";} 
 	 	 	 
