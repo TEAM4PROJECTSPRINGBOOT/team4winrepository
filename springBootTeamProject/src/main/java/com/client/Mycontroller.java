@@ -35,13 +35,10 @@ public class Mycontroller {
 		 System.out.println("in Login..");
 
 		 System.out.println("try to changes..");
-<<<<<<< HEAD
 		 System.out.println("merge akashbranch -- master..");
-
-=======
 		 System.out.println("merge akashbranch -- master..");
 		 System.out.println("timepass..");
->>>>>>> refs/remotes/origin/akashbranch
+
 		 return "login";
 		 }  
 	 
