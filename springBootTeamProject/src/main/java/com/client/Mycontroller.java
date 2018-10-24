@@ -37,7 +37,7 @@ public class Mycontroller {
 		 System.out.println("Prashant Pardhi  work on git hub");
 		 System.out.println("merge test1");  
 		 System.out.println("test for merge conflict");
-		 return "login";
+		 return "login"; 
 		 }  
 	 
 	 @RequestMapping(value="/register")public String goToRegistrationPage() {return "registration";} 
