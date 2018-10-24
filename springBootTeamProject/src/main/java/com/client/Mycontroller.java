@@ -31,13 +31,7 @@ public class Mycontroller {
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
-
-		 System.out.println("Akash is working on GitHub..");
-		 System.out.println("pranay kohad");
-		 System.out.println("pranay kohad is projects admin123");
-		 System.out.println("Samirrrrrrrrrrrr");
-		 System.out.println("Prashant Pardhi  work on git hub developer in second branch");
-		 System.out.println("a extra work will be define");
+		 System.out.println("try merge prashantbranch -- master..");
 		 return "login";
 		 }  
 	 
