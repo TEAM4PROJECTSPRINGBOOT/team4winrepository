@@ -34,7 +34,6 @@ public class Mycontroller {
 		 
 		 System.out.println("in Login..");
 		 System.out.println("akashbranch merge proccess..");
-		 System.out.println("try to merge akashbranch -- Master..");
 		 return "login";
 		 }  
 	 
