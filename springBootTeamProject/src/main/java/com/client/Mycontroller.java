@@ -32,6 +32,7 @@ public class Mycontroller {
 
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
+<<<<<<< HEAD
 
 		 System.out.println("in Login..");
 
@@ -42,6 +43,10 @@ public class Mycontroller {
 		 System.out.println("in Login..");
 
 
+=======
+		 System.out.println("in Login..");
+		 System.out.println("try merge prashantbranch -- master..");
+>>>>>>> refs/remotes/origin/prashantbranch
 		 return "login";
 		 }  
 	 
