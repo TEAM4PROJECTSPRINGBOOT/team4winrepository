@@ -33,7 +33,7 @@ public class Mycontroller {
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
-		 System.out.println("akashbranch merge proccess.....");
+		 System.out.println("akashbranch merge proccess..");
 		 return "login";
 		 }  
 	 
