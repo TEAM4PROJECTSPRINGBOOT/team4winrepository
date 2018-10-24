@@ -31,7 +31,7 @@ public class Mycontroller {
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
-		 System.out.println("Akash....");
+		 System.out.println("Akash is working on GitHub..");
 		 System.out.println("pranay kohad");
 		 System.out.println("Samirrrrrrrrrrrr");
 		 return "login";
