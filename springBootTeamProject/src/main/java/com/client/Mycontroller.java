@@ -37,7 +37,7 @@ public class Mycontroller {
 		 System.out.println("try to changes..");
 		 System.out.println("merge akashbranch -- master..");
 		 System.out.println("merge akashbranch -- master..");
-		 System.out.println("timepass..");
+		 System.out.println("timepass...");
 
 		 return "login";
 		 }  
