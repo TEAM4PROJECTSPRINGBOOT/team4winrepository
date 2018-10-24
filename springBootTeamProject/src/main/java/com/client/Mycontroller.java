@@ -28,9 +28,12 @@ public class Mycontroller {
 	 int curid;
 	 
 
+
+
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
+
 		 System.out.println("Akash....");
 		 System.out.println("pranay kohad is projects admin");
 		 System.out.println("Samirrrrrrrrrrrr");
@@ -39,6 +42,7 @@ public class Mycontroller {
 		 System.out.println("test for merge conflict");  
 		 System.out.println("merge this line   ");
 		 return "login"; 
+
 		 }  
 	 
 	 @RequestMapping(value="/register")public String goToRegistrationPage() {return "registration";} 
