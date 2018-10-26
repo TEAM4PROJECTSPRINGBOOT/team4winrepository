@@ -28,20 +28,26 @@ public class Mycontroller {
 	 int curid;
 	 
 
+
+
 	 @RequestMapping(value="/")public String goToLoginPage() {
 		 
 		 System.out.println("in Login..");
+
 		 System.out.println("Akash....");
 		 System.out.println("pranay kohad is projects admin");
 		 System.out.println("Samirrrrrrrrrrrr");
 		 System.out.println("Prashant Pardhi  work on git hub");
-		 System.out.println("merge test1");  
-		 System.out.println("test for merge conflict");
+		 System.out.println("merge test1");  	 
 		 System.out.println("update project by team lead in TL branch");
 		 System.out.println("new prashanttest branch");
 		 System.out.println(".gitingnore file is added 3");
+		 System.out.println("test for merge conflict");  
+		 System.out.println("merge this line   ");
+		 System.out.println("update master");
+		 return "login"; 
 
-		 return "login";
+
 		 }  
 	 
 	 @RequestMapping(value="/register")public String goToRegistrationPage() {return "registration";} 
