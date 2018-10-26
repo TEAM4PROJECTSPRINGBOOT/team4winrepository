@@ -45,7 +45,7 @@ public class Mycontroller {
 		 System.out.println("test for merge conflict");  
 		 System.out.println("merge this line   ");
 		 System.out.println("update master");
-		 System.out.println("update pranaykohadbranch");
+		 System.out.println("update pranaykohadbranch"); 
 		 return "login"; 
 
 
