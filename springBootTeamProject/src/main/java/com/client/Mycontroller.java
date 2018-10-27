@@ -46,7 +46,7 @@ public class Mycontroller {
 		 System.out.println("merge this line   ");
 		 System.out.println("update master");
 		 System.out.println("update pranaykohadbranch");
-		 System.out.println("27-oct-2018");
+		 System.out.println("akash");
 		 return "login"; 
 
 
