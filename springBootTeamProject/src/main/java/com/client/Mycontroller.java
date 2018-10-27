@@ -38,6 +38,7 @@ public class Mycontroller {
 		 System.out.println("merge akashbranch -- master..");
 		 System.out.println("merge akashbranch -- master..");
 		 System.out.println("check merge conflict error..");
+		 System.out.println("New fetchBranch added..");
 		 return "login";
 		 }  
 	 
